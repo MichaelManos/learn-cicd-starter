@@ -1,5 +1,4 @@
-![You've earned your... testing badge](https://github.com/MichaelManos/learn-cicd-starter
-/actions/workflows/ci/badge.svg)
+![You've earned your... testing badge](https://github.com/MichaelManos/learn-cicd-starter/actions/workflows/ci/badge.svg)
 
 # learn-cicd-starter (Notely)
 
